@@ -1,1 +1,2 @@
-https://jsdenis.github.io/Tutorials-app-front/
+Our todo application
+https://jsdenis.github.io/front-side-todo/
